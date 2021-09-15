@@ -1,2 +1,2 @@
 # silverlining-theme
-Linux GUI theme
+Linux GUI theme - Coming real soon!
