@@ -1,6 +1,8 @@
-# Silverlining - Linux GUI Theme
-## The traditional makeover set for modern desktops.
-Coming real soon!
+# A Traditional makeover set for modern Linux desktops.
+
+![](https://github.com/K0ntrast/silverlining-theme/raw/main/silverlining_title.png)
+
+## Coming real soon!
 I created an icon and theme set of my own as I wasn't totally satisfied with many of the themes available for Linux desktop environemnts. I'm not that big of a fan of all these modernised, overly "flat" and over-simplified icon sets. I wanted something a bit more nostalgic, reminicent of the late 90s and early 2000s desktop environments. These detailed, skeuomorphic icons do go against the grain of the more modern "dark mode" & "flat" icon themes to offer a traditional desktop experince with a modern flare. Inspired by Apple's Platinum (incl. Rhapsody), Red Hat's Bluecurve, KDE's 2.2-3.0 Classic, GNOME 2.x, Raspberry Pi's PiXEL and OPENSTEP/NeXTSTEP, I've compiled a colleciton of icons to bring back that familiar feeling.
 These have been tested in GTK-based desktops only. Namely MATE 1.20+, XFCE 4.12+ and LXDE v0.10+ only.
 Bear in mind this is a BETA release and still in TESTING phase. A final release is long way away yet.
