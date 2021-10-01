@@ -18,16 +18,16 @@ Bear in mind this is a **BETA** release and still in **TESTING** phase. A final 
 Icon resources have been compiled by the author from various free sources (with further modification) around the WWW. Each has been modified with GIMP.
 
 ### Icon Set:
-This icon pack is a complete drop in replacement. It is a full comprehensive pack, not a supplimentary pack like so many others out there. The goal is to be totally dependent and not rely on a fallback theme to fill any missing icons.
+This icon pack is a complete drop in replacement. Silverlining is intended to be a full comprehensive pack, not a supplimentary pack like so many others. The goal is to be totally independent and not rely on a fallback theme to fill any missing icons.
 
 These icons are distributed freely under the GNU GPL software license. Feel free to contribute to, redistribute and fork this project.
 
 *Programs generally use their own internal icons as created by their own respective authours.*
 
 #### Author's Note:
-If you think that this theme looks "old" or "dated", that’s because it is, and that’s very much on purpose.
+If you think that this theme looks "old" or "dated", that’s because it is, and that’s very much its purpose.
 
-Yes, it's a bit messy, rough around the edges and has lots of polishing still to be done, but what is here serves as a project starting point.
+Yes, it's a currently a bit messy, rough around the edges and has lots of polishing work to be done, but what is here serves as a project starting point.
 
 ### Recommended Fonts for this theme:
 > >
@@ -50,7 +50,7 @@ Yes, it's a bit messy, rough around the edges and has lots of polishing still to
 + Emoticons = http://www.emojipedia.org & www.twitter.com
 + Weather icons = MSN weather
 + Various image elements from Vectorstock, pngicons, iconfinder, pngrepo, kindpng, flaticons, thenounproject, ISO symbol library, wikipedia, icons of repsective software programs and filetypes belonging to their respective owners. Used under fair-use and representation of product. Each icon created has been modified slightly to suit the theme.
-+ I'd like to dedicate this project to my former college lecturer, Dennis Peek at the South West Regional College in Western Australia. The good man who was instrumental in helping me take the plunge into the wonderful world of Linux (c. 2005).
++ I'd like to dedicate this project to my former college lecturer, Dennis Peek at the South West Regional College in Western Australia. A good man who was instrumental in helping me take the plunge into the wonderful world of Linux (c. 2005).
 
 Silverlining currently has application specific themes for XFE, Audacious, Claws Mail and aMule. More to come later.
 
@@ -68,3 +68,4 @@ Silverlining currently has application specific themes for XFE, Audacious, Claws
 * Add more symbolic links to cater for various DEs icon references.
 * Create deployment packages for easy rollout on distros (deb, rpm, xbps, pkg, etc.)
 * Complete MIME types list for all filetype icons
+* Automated script for installing and setting system fonts (dconf?)
