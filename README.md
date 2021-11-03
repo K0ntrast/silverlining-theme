@@ -49,7 +49,7 @@ Yes, it's a currently a bit messy, rough around the edges and has lots of polish
 + ISO 3166-1 flags = Adopts Stefan Gabos work https://stefangabos.github.io/world_countries/
 + Emoticons = http://www.emojipedia.org & www.twitter.com
 + Weather icons = MSN weather
-+ Various image elements from Vectorstock, pngicons, iconfinder, pngrepo, kindpng, flaticons, thenounproject, ISO symbol library, wikipedia, icons of repsective software programs and filetypes belonging to their respective owners. Used under fair-use and representation of product. Each icon created has been modified slightly to suit the theme.
++ Various image elements from Vectorstock, pngicons, iconfinder, pngrepo, kindpng, flaticons, thenounproject, ISO symbol library, Wikipedia, icons of repsective software programs and filetypes belonging to their respective owners. Used under fair-use and representation of product. Each icon created has been modified slightly to suit the theme.
 + I'd like to dedicate this project to my former college lecturer, Dennis Peek at the South West Regional College in Western Australia. A good man who was instrumental in helping me take the plunge into the wonderful world of Linux (c. 2005). Ironically, he wasn't a fan of GUIs but rather pure command line.
 
 Silverlining currently has application specific themes for XFE, Audacious, Claws Mail and aMule. More to come later.
@@ -68,4 +68,4 @@ Silverlining currently has application specific themes for XFE, Audacious, Claws
 * Add more symbolic links to cater for various DEs icon references.
 * Create deployment packages for easy rollout on distros (deb, rpm, xbps, pkg, etc.)
 * Complete MIME types list for all filetype icons
-* Automated script for installing and setting system fonts (dconf?)
+* Automated script for installing and setting system fonts (via dconf?)
