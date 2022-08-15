@@ -2,32 +2,32 @@
 
 ![](https://github.com/K0ntrast/silverlining-theme/raw/main/silverlining_title.png)
 
-## Coming real soon!
+## Almost ready for first release. Watch this space!
 
 ### Background:
 
-I created an icon and theme set of my own as I wasn't totally satisfied with many of the themes available for Linux desktop environemnts. I'm not that big of a fan of all these modernised, dark-mode centric, "flat" and over-simplified icon sets and window frames. I wanted something fresh, a bit more nostalgic, reminicent of the late 90s and early 2000s desktop environments.
+I created an icon and theme set of my own as I wasn't totally satisfied with many of the themes available for Linux desktop environemnts. I'm not that big of a fan of all these modernised, symbolic, dark-mode centric, "flat" and over-simplified icon sets and window frames. I wanted something fresh, nostalgic and reminicent of the late 90s and early 2000s desktop environments.
 
-These detailed, skeuomorphic icons do go against the grain of the more modern "dark mode" & "flat" icon themes to offer a traditional desktop experince with a modern flare. Inspired by Apple's Platinum (incl. Rhapsody), Red Hat's Bluecurve, KDE's 2.2-3.0 Classic, GNOME 2.x, Raspberry Pi's PiXEL and OPENSTEP/NeXTSTEP. I've compiled a colleciton of icons to bring back that familiar feeling.
+These detailed, skeuomorphic icons do go against the grain of the more modern "dark mode" & "flat" icon themes to offer a traditional desktop experince with a modern flare. Inspired by Apple's Platinum (incl. Rhapsody), Red Hat's Bluecurve, KDE Classic, GNOME 2.x, Raspberry Pi's PiXEL and OPENSTEP/NeXTSTEP. I've compiled a collection of icons to bring back that familiar feeling.
 
 ### Compatibility:
 These have been tested in GTK-based desktops only. Namely MATE 1.20+, XFCE 4.12+, LXDE v0.10+ and Openbox 3.6.1+ only.
 
-Bear in mind this is a **BETA** release and still in **TESTING** phase. A final release is long way away yet.
+Bear in mind this is a **BETA** release and still in **TESTING** phase. A final release is still some time away.
 
-Icon resources have been compiled by the author from various free sources (with further modification) around the WWW. Each has been modified with GIMP.
+Icon resources have been compiled by the author from various free sources (with further modification) around the WWW. I used GIMP for all the raster work.
 
 ### Icon Set:
-This icon pack is a complete drop in replacement. Silverlining is intended to be a full comprehensive pack, not a supplimentary pack like so many others. The goal is to be totally independent and not rely on a fallback theme to fill any missing icons.
+This icon pack is a complete drop in replacement. Silverlining is intended to be a full comprehensive theme pack. The goal is to be totally independent and not rely on a fallback theme to fill any missing icons.
 
-These icons are distributed freely under the GNU GPL software license. Feel free to contribute to, redistribute and fork this project.
+These icons are distributed freely under the Creative Commons (artwork) and GNU GPL software license (config files). Feel free to contribute to, redistribute and fork this project.
 
 *Programs generally use their own internal icons as created by their own respective authours.*
 
 #### Author's Note:
-If you think that this theme looks "old" or "dated", that’s because it is, and that’s very much its purpose.
+Yes, it's admittedly a bit rough around the edges and needs more polishing, but what is here serves as a project starting point.
 
-Yes, it's a currently a bit messy, rough around the edges and has lots of polishing work to be done, but what is here serves as a project starting point.
+Enjoy and appreciate. It's been a labour of love to bring you this release.
 
 ### Recommended Fonts for this theme:
 > >
@@ -58,11 +58,11 @@ Silverlining currently has application specific themes for XFE, SMPlayer, Claws 
 
 ## TO-DO:
 * Write a "design language" document. Complete with 5-6 shades per colour for a set palette.
-* Fill in any missing icons
+* Fill in any missing icons or fill in missing symbolic links
 * Style icons and themes with more consistancy.
 * Redraw the icons without upscaling. A full, original SVG format set would be an *awesome* start!
 * Compatibility with more desktop environments (NSCDE, i3, KDE, LXQt, Cinammon, etc.)
-* More program specific skins/themes for system-wide consistency (i.e. double commander, xfe, midnight commander, filezilla, firefox, chromium, thunderbird, gvim, conky, atom, geany, SciTE, and more...)
+* More program specific skins/themes for system-wide consistency (i.e. double commander, xfe, midnight commander, firefox, chromium, thunderbird, gvim, conky, atom, geany, SciTE, and more...)
 * Optimise the PNG icons for faster loading on low resource and SBC machines
 * Reduce size of deployment package by reducing unessecary icon double ups
 * Add more symbolic links to cater for various DEs icon references.
